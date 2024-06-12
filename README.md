@@ -1,5 +1,13 @@
 ## Hi there 👋
+Boas vindas ao meu perfil 💙💙
 
+Meu nome é livia
+
+Estou estudando na Alura
+
+Estou me desenvolvendo na linguagem JavaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 <!--
 **00001094916730/00001094916730** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
